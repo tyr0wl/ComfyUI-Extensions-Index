@@ -21,7 +21,7 @@
                 "ultralytics"
             ],
             "install_type": "git-clone",
-            "description": "Primary Nodes for Inference.Core and Stability Matrix. With a focus on not impacting startup performance and using fully qualified Node names."
+            "description": "This node pack provides nodes that complement the ComfyUI Impact Pack, such as the UltralyticsDetectorProvider."
         },
         {
             "author": "comfyanonymous",
