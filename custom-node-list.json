@@ -32,6 +32,16 @@
             ],
             "install_type": "git-clone",
             "description": "NF4 Support for ComfyUI"
+        },
+        {
+            "author": "Jordach, LykosAI",
+            "title": "comfy-plasma",
+            "reference": "https://github.com/LykosAI/comfy-plasma",
+            "files": [
+                "https://github.com/LykosAI/comfy-plasma"
+            ],
+            "install_type": "git-clone",
+            "description": "A simple plasma noise generator for ComfyUI"
         }
     ]
 }
