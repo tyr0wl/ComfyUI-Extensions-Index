@@ -36,12 +36,12 @@
         {
             "author": "Jordach, LykosAI",
             "title": "comfy-plasma",
-            "reference": "https://github.com/LykosAI/comfy-plasma",
+            "reference": "https://github.com/LykosAI/inference-comfy-plasma",
             "files": [
-                "https://github.com/LykosAI/comfy-plasma"
+                "https://github.com/LykosAI/inference-comfy-plasma"
             ],
             "install_type": "git-clone",
-            "description": "A simple plasma noise generator for ComfyUI"
+            "description": "A simple plasma noise generator for ComfyUI. Now with sampler progress previews"
         }
     ]
 }
