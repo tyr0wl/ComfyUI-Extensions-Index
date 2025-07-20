@@ -1,47 +1,14 @@
 {
     "custom_nodes": [
         {
-            "author": "LykosAI",
-            "title": "ComfyUI Nodes for Inference.Core",
-            "reference": "https://github.com/LykosAI/ComfyUI-Inference-Core-Nodes",
+            "author": "kijai",
+            "title": "ComfyUI-WanVideoWrapper",
+            "reference": "https://github.com/kijai/ComfyUI-WanVideoWrapper",
             "files": [
-                "https://github.com/LykosAI/ComfyUI-Inference-Core-Nodes"
+                "https://github.com/kijai/ComfyUI-WanVideoWrapper"
             ],
             "install_type": "git-clone",
-            "description": "Primary Nodes for Inference.Core and Stability Matrix. With a focus on not impacting startup performance and using fully qualified Node names."
-        },
-        {
-            "author": "Dr.Lt.Data",
-            "title": "ComfyUI Impact Subpack",
-            "reference": "https://github.com/ltdrdata/ComfyUI-Impact-Subpack",
-            "files": [
-                "https://github.com/ltdrdata/ComfyUI-Impact-Subpack"
-            ],
-            "pip": [
-                "ultralytics"
-            ],
-            "install_type": "git-clone",
-            "description": "This node pack provides nodes that complement the ComfyUI Impact Pack, such as the UltralyticsDetectorProvider."
-        },
-        {
-            "author": "comfyanonymous",
-            "title": "ComfyUI_bitsandbytes_NF4",
-            "reference": "https://github.com/comfyanonymous/ComfyUI_bitsandbytes_NF4",
-            "files": [
-                "https://github.com/comfyanonymous/ComfyUI_bitsandbytes_NF4"
-            ],
-            "install_type": "git-clone",
-            "description": "NF4 Support for ComfyUI"
-        },
-        {
-            "author": "Jordach, LykosAI",
-            "title": "comfy-plasma",
-            "reference": "https://github.com/LykosAI/inference-comfy-plasma",
-            "files": [
-                "https://github.com/LykosAI/inference-comfy-plasma"
-            ],
-            "install_type": "git-clone",
-            "description": "A simple plasma noise generator for ComfyUI. Now with sampler progress previews"
+            "description": ""
         }
     ]
 }
